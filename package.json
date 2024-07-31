@@ -26,7 +26,7 @@ O{
     "style": "style/index.css",
     "repository": {
         "type": "git",
-        "url": "https://github.com/linmei7/jupyterlab-apod.git"
+        "url": "https://github.com/linmei7/jupyterlab_apod.git"
     },
     "scripts": {
         "build": "jlpm build:lib && jlpm build:labextension:dev",
