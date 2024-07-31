@@ -1,4 +1,5 @@
-O{
+O
+{
     "name": "jupyterlab_apod",
     "version": "0.1.0",
     "description": "Show a random NASA Astronomy Picture of the Day in a JupyterLab panel.",
@@ -7,9 +8,9 @@ O{
         "jupyterlab",
         "jupyterlab-extension"
     ],
-    "homepage": "https://github.com/linmei7/jupyterlab_apod",
+    "homepage": "https://github.com/linmei7/jupyterlab-apod",
     "bugs": {
-        "url": "https://github.com/linmei7/jupyterlab_apod/issues"
+        "url": "https://github.com/linmei7/jupyterlab-apod/issues"
     },
     "license": "BSD-3-Clause",
     "author": {
