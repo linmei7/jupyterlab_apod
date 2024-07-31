@@ -7,7 +7,7 @@
         "jupyterlab",
         "jupyterlab-extension"
     ],
-    "homepage": "https://github.com/linmei7/jupyterlab_apod.git",
+    "homepage": "https://github.com/linmei7/jupyterlab_apod",
     "bugs": {
         "url": "https://github.com/linmei7/jupyterlab_apod.git/issues"
     },
